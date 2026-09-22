@@ -6,7 +6,7 @@ Most of what you'll find here is stuff I've built while learning more about secu
 
 ### interested in
 
-`incident response` · `detection engineering` · `cloud security` 
+`incident response` · `detection engineering` · `cloud security` · 
 `security automation` · `AI security`
 
 ### tools & tech
